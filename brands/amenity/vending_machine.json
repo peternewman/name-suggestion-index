@@ -114,7 +114,7 @@
       "brand:wikidata": "Q7305489",
       "brand:wikipedia": "en:Redbox",
       "name": "Redbox",
-      "vending": "dvd"
+      "vending": "movies;video_games"
     }
   },
   "amenity/vending_machine|Robidog": {
